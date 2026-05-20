@@ -71,10 +71,10 @@ https://배포주소/manifest.webmanifest
 https://배포주소/sw.js
 ```
 
-`/api/health`에서 아래 값이 보이면 v23 서버가 맞습니다.
+`/api/health`에서 아래 값이 보이면 v24 서버가 맞습니다.
 
 ```json
-{"apiVersion":"v23-render-mobile-install"}
+{"apiVersion":"v24-render-npmfix"}
 ```
 
 ## 6. 무료 플랜 주의사항

@@ -2,7 +2,7 @@
 
 ## 1. 이번 버전 기준
 
-- 버전: `v23-render-mobile-install`
+- 버전: `v24-render-npmfix`
 - 배포 추천 방식: Render **Web Service** 무료 플랜
 - 이유: 현재 앱은 React 정적 파일뿐 아니라 Node/Express API와 RSS 수집 API를 함께 사용합니다.
 
@@ -61,7 +61,7 @@ https://배포주소/sw.js
 `/api/health`에서 아래 값이 보이면 정상입니다.
 
 ```json
-{"apiVersion":"v23-render-mobile-install"}
+{"apiVersion":"v24-render-npmfix"}
 ```
 
 ## 5. PWA 설치 확인
