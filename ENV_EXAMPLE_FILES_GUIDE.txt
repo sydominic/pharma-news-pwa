@@ -1,0 +1,11 @@
+These files are template files only.
+Do not put real Supabase URL/key in these files if the repository is public.
+
+Upload to GitHub repository root:
+- .env.example
+- .env.online.example
+- .env.render.example
+
+Actual values are used only in:
+1) local .env file, kept on your PC only
+2) Render Environment Variables
